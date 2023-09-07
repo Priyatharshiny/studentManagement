@@ -1,0 +1,28 @@
+{
+  "student": [
+    {
+      "id": 1,
+      "name": "Priya",
+      "phone_no": "076400585",
+      "address": "Mannar"
+    },
+    {
+      "id": 6,
+      "name": "Vijay",
+      "phone_no": "0773000027",
+      "address": "Madhu"
+    },
+    {
+      "id": 13,
+      "name": "Vino",
+      "phone_no": "0777572195",
+      "address": "Murunkan"
+    },
+    {
+      "id": 14,
+      "name": "Priya",
+      "phone_no": "076400585",
+      "address": "Mannar"
+    }
+  ]
+}
